@@ -1,0 +1,23 @@
+PolyMinder: A Support System for Entity Annotation and Relation Extraction in Polymer Science Documents
+Streamlining Biomedical Research with Specialized LLMs
+LENS: Learning Entities from Narratives of Skin Cancer
+Loki: An Open-Source Tool for Fact Verification
+UnifiedGEC: Integrating Grammatical Error Correction Approaches for Multi-languages with a Unified Framework
+Reliable, Reproducible, and Really Fast Leaderboards with Evalica
+BeefBot: Harnessing Advanced LLM and RAG Techniques for Providing Scientific and Technology Solutions to Beef Producers
+AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models
+A Probabilistic Toolkit for Multi-grained Word Segmentation in Chinese
+EasyJudge: an Easy-to-use Tool for Comprehensive Response Evaluation of LLMs
+LUCE: A Dynamic Framework and Interactive Dashboard for Opinionated Text Analysis
+RAGthoven: A Configurable Toolkit for RAG-enabled LLM Experimentation
+MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering
+Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference
+CASE: Large Scale Topic Exploitation for Decision Support Systems
+GECTurk WEB: An Explainable Online Platform for Turkish Grammatical Error Detection and Correction
+GR-NLP-TOOLKIT: An Open-Source NLP toolkit for modern Greek
+ViSoLex: An Open-Source Repository for Vietnamese Social Media Lexical Normalization
+CompUGE-Bench: Comparative Understanding and Generation Evaluation Benchmark for Comparative Question Answering
+Autonomous Machine Learning-based Peer Reviewer Selection System
+CULTURALLY YOURS: A Reading Assistant for Cross-Cultural Content
+FEAT-writing: An Interactive Training System for Argumentative Writing
+Follow:

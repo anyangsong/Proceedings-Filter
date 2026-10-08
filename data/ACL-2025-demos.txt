@@ -1,0 +1,65 @@
+MapQaTor: An Extensible Framework for Efficient Annotation of Map-Based QA Datasets
+PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement
+MERaLiON-AudioLLM: Advancing Speech and Language Understanding for Singapore
+NameTag 3: A Tool and a Service for Multilingual/Multitagset NER
+Multi-Programming Language Sandbox for LLMs
+FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation
+My Climate CoPilot: A Question Answering System for Climate Adaptation in Agriculture
+SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalism
+Textagon: Boosting Language Models with Theory-guided Parallel Representations
+GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture
+Unifying Language Agent Algorithms with Graph-based Orchestration Engine for Reproducible Agent Research
+Abacus-SQL: A Text-to-SQL System Empowering Cross-Domain and Open-Domain Database Retrieval
+Tulun: Transparent and Adaptable Low-resource Machine Translation
+ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths
+Dia-Lingle: A Gamified Interface for Dialectal Data Collection
+Token Level Routing Inference System for Edge Devices
+The ShareLM Collection and Plugin: Contributing Human-Model Chats for the Benefit of the Community
+OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens
+AutoAlign: Get Your LLM Aligned with Minimal Annotations
+Know-MRI: A Knowledge Mechanisms Revealer&Interpreter for Large Language Models
+AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration
+DEEP: an automatic bidirectional translator leveraging an ASR for translation of Italian sign language
+VenusFactory: An Integrated System for Protein Engineering with Data Retrieval and Language Model Fine-Tuning
+GenGO Ultra: an LLM-powered ACL Paper Explorer
+SpatialWebAgent: Leveraging Large Language Models for Automated Spatial Information Extraction and Map Grounding
+DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spiral
+ADEPT-SQL: A High-performance Text-to-SQL Application for Real-World Enterprise-Level Databases
+LCDS: A Logic-Controlled Discharge Summary Generation System Supporting Source Attribution and Expert Review
+Revealing the Unwritten: Visual Investigation of Beam Search Trees to Address Language Model Prompting Challenges
+Scholar Inbox: Personalized Paper Recommendations for Scientists
+The Open Argument Mining Framework
+Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines
+ZeroSumEval: An Extensible Framework For Scaling LLM Evaluation with Inter-Model Competition
+DECAF: A Dynamically Extensible Corpus Analysis Framework
+Dialz: A Python Toolkit for Steering Vectors
+FORG3D: Flexible Object Rendering for Generating Vision-Language Spatial Reasoning Data from 3D Scenes
+RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding
+Live Football Commentary System Providing Background Information
+GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization
+iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation
+LiDARR: Linking Document AMRs with Referents Resolvers
+SlimLM: An Efficient Small Language Model for On-Device Document Assistance
+VeriMinder: Mitigating Analytical Vulnerabilities in NL2SQL
+DocAgent: A Multi-Agent System for Automated Code Documentation Generation
+DISPUTool 3.0: Fallacy Detection and Repairing in Argumentative Political Debates
+MedDecXtract: A Clinician-Support System for Extracting, Visualizing, and Annotating Medical Decisions in Clinical Narratives
+CiteLab: Developing and Diagnosing LLM Citation Generation Workflows via the Human-LLM Interaction
+CodeArena: A Collective Evaluation Platform for LLM Code Generation
+Ai2 Scholar QA: Organized Literature Synthesis with Attribution
+gec-metrics: A Unified Library for Grammatical Error Correction Evaluation
+AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents
+Efficient Annotator Reliablity Assessment with EffiARA
+TRANSLATIONCORRECT: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance
+First-AID: the first Annotation Interface for grounded Dialogues
+Mergenetic: a Simple Evolutionary Model Merging Library
+FlagEval-Arena: A Side-by-Side Comparative Evaluation Platform for Large Language Models and Text-Driven AIGC
+IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery
+ROGRAG: A Robustly Optimized GraphRAG Framework
+LECTURE4ALL: A Lightweight Approach to Precise Timestamp Detection in Online Lecture Videos
+FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation
+ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development
+PRAISE: Enhancing Product Descriptions with LLM-Driven Structured Insights
+ATGen: A Framework for Active Text Generation
+Value Compass Leaderboard: A Comprehensive, Generative and Self-Evolving Platform for LLMs’ Value Evaluation
+Follow:

@@ -1,0 +1,901 @@
+SERENGETI: Massively Multilingual Language Models for Africa
+In-context Examples Selection for Machine Translation
+Multilingual Summarization with Factual Consistency Evaluation
+$2*n$ is better than $n^2$: Decomposing Event Coreference Resolution into Two Tractable Problems
+Multilingual Pre-training with Self-supervision from Global Co-occurrence Information
+Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings
+Improving Diachronic Word Sense Induction with a Nonparametric Bayesian method
+Impact of Adversarial Training on Robustness and Generalizability of Language Models
+Language Models for German Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training
+Distilling Efficient Language-Specific Models for Cross-Lingual Transfer
+Varta: A Large-Scale Headline-Generation Dataset for Indic Languages
+A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information
+CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics
+Task-aware Retrieval with Instructions
+A Match Made in Heaven: A Multi-task Framework for Hyperbole and Metaphor Detection
+Parameter-Efficient Finetuning for Robust Continual Multilingual Learning
+Towards Accurate Translation via Semantically Appropriate Application of Lexical Constraints
+DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance
+Task-Optimized Adapters for an End-to-End Task-Oriented Dialogue System
+Opinion Tree Parsing for Aspect-based Sentiment Analysis
+Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners
+DMLM: Descriptive Masked Language Modeling
+Character Coreference Resolution in Movie Screenplays
+Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree
+An Investigation of Evaluation Methods in Automatic Medical Note Generation
+Masked Latent Semantic Modeling: an Efficient Pre-training Alternative to Masked Language Modeling
+So many design choices: Improving and interpreting neural agent communication in signaling games
+Similarity-Based Content Scoring - A more Classroom-Suitable Alternative to Instance-Based Scoring?
+Adaptation Approaches for Nearest Neighbor Language Models
+Prompted Opinion Summarization with GPT-3.5
+Measuring Intersectional Biases in Historical Documents
+Model Interpretability and Rationale Extraction by Input Mask Optimization
+Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension
+Towards Distribution-shift Robust Text Classification of Emotional Content
+NusaCrowd: Open Source Initiative for Indonesian NLP Resources
+Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge
+Improving Autoregressive Grammatical Error Correction with Non-autoregressive Models
+Modularized Zero-shot VQA with Pre-trained Models
+Pay More Attention to Relation Exploration for Knowledge Base Question Answering
+Additive manifesto decomposition: A policy domain aware method for understanding party positioning
+ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages
+I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors
+DiscoPrompt: Path Prediction Prompt Tuning for Implicit Discourse Relation Recognition
+Revisiting the Architectures like Pointer Networks to Efficiently Improve the Next Word Distribution, Summarization Factuality, and Beyond
+Dramatic Conversation Disentanglement
+Pre-training Language Model as a Multi-perspective Course Learner
+Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents
+Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting
+HonestBait: Forward References for Attractive but Faithful Headline Generation
+Controllable Conversation Generation with Conversation Structures via Diffusion Models
+Human-in-the-loop Abstractive Dialogue Summarization
+Improving Cross-task Generalization of Unified Table-to-text Models with Compositional Task Configurations
+On the Off-Target Problem of Zero-Shot Multilingual Neural Machine Translation
+Structural Contrastive Pretraining for Cross-Lingual Comprehension
+Speech-to-Speech Translation for a Real-world Unwritten Language
+Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering
+A Customized Text Sanitization Mechanism with Differential Privacy
+PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition
+Stochastic Bridges as Effective Regularizers for Parameter-Efficient Tuning
+Understanding Differential Search Index for Text Retrieval
+Towards Imperceptible Document Manipulations against Neural Ranking Models
+Frustratingly Easy Label Projection for Cross-lingual Transfer
+Making Pre-trained Language Models both Task-solvers and Self-calibrators
+From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework
+Prompt-Based Metric Learning for Few-Shot NER
+Incomplete Utterance Rewriting as Sequential Greedy Tagging
+AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities
+PAL: Persona-Augmented Emotional Support Conversation Generation
+Improving Contrastive Learning of Sentence Embeddings from AI Feedback
+A Set Prediction Network For Extractive Summarization
+Decouple knowledge from paramters for plug-and-play language modeling
+ML-LMCL: Mutual Learning and Large-Margin Contrastive Learning for Improving ASR Robustness in Spoken Language Understanding
+Can Cross-Lingual Transferability of Multilingual Transformers Be Activated Without End-Task Data?
+Are Synonym Substitution Attacks Really Synonym Substitution Attacks?
+End-to-End Argument Mining over Varying Rhetorical Structures
+Fixed Input Parameterization for Efficient Prompting
+BLOCSUM: Block Scope-based Source Code Summarization via Shared Block Representation
+CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation
+CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization
+Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering
+Categorial grammar induction from raw data
+Label Agnostic Pre-training for Zero-shot Text Classification
+From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?
+Universal Information Extraction with Meta-Pretrained Self-Retrieval
+Reinforcement Learning for Topic Models
+Context-Aware Document Simplification
+Explanation Graph Generation via Generative Pre-training over Synthetic Graphs
+PV2TEA: Patching Visual Modality to Textual-Established Information Extraction
+Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction
+Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers
+Domain Incremental Lifelong Learning in an Open World
+Measuring and Mitigating Local Instability in Deep Neural Networks
+FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference
+Clustering-Aware Negative Sampling for Unsupervised Sentence Representation
+A Multi-task Learning Framework for Quality Estimation
+Correction of Errors in Preference Ratings from Automated Metrics for Text Generation
+Honey, I Shrunk the Language: Language Model Behavior at Reduced Scale.
+An Integrated Approach for Political Bias Prediction and Explanation Based on Discursive Structure
+Aligning Offline Metrics and Human Judgments of Value for Code Generation Models
+Few-shot Classification with Hypersphere Modeling of Prototypes
+A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks
+Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays
+Prompt- and Trait Relation-aware Cross-prompt Essay Trait Scoring
+StructSP: Efficient Fine-tuning of Task-Oriented Dialog System by Using Structure-aware Boosting and Grammar Constraints
+CIF-PT: Bridging Speech and Text Representations for Spoken Language Understanding via Continuous Integrate-and-Fire Pre-Training
+PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts
+CoRRPUS: Code-based Structured Prompting for Neurosymbolic Story Understanding
+Structure-Discourse Hierarchical Graph for Conditional Question Answering on Long Documents
+Zero-shot Visual Question Answering with Language Model Feedback
+Encoder and Decoder, Not One Less for Pre-trained Language Model Sponsored NMT
+LMentry: A Language Model Benchmark of Elementary Language Tasks
+Fixing MoE Over-Fitting on Low-Resource Languages in Multilingual Machine Translation
+ORCA: A Challenging Benchmark for Arabic Language Understanding
+Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks
+Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning
+Scale-Invariant Infinite Hierarchical Topic Model
+Language acquisition: do children and language models follow similar learning stages?
+Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction
+Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control
+Understanding the Cooking Process with English Recipe Text
+Aerial Vision-and-Dialog Navigation
+The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding
+On Text-based Personality Computing: Challenges and Future Directions
+Improving Grammatical Error Correction with Multimodal Feature Integration
+TransGEC: Improving Grammatical Error Correction with Translationese
+Modeling Adversarial Attack on Pre-trained Language Models as Sequential Decision Making
+Constructing Code-mixed Universal Dependency Forest for Unbiased Cross-lingual Relation Extraction
+Multi-Agent Language Learning: Symbolic Mapping
+Improved Visual Story Generation with Adaptive Context Modeling
+Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors
+Cross-Domain Argument Quality Estimation
+Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge
+SETI: Systematicity Evaluation of Textual Inference
+Re-appraising the Schema Linking for Text-to-SQL
+Easy-to-Hard Learning for Information Extraction
+Evaluating Factuality in Cross-lingual Summarization
+Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization
+UMSE: Unified Multi-scenario Summarization Evaluation
+Learning Joint Structural and Temporal Contextualized Knowledge Embeddings for Temporal Knowledge Graph Completion
+Data Augmentation for Low-Resource Keyphrase Generation
+Exploring the Relationship between Alignment and Cross-lingual Transfer in Multilingual Transformers
+Detection and Mitigation of the Negative Impact of Dataset Extractivity on Abstractive Summarization
+Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data
+LaSQuE: Improved Zero-Shot Classification from Explanations Through Quantifier Modeling and Curriculum Learning
+Retrieval-Based Transformer for Table Augmentation
+This prompt is measuring <mask>: evaluating bias evaluation in language models
+PreQuant: A Task-agnostic Quantization Approach for Pre-trained Language Models
+Robustness of Learning from Task Instructions
+Trigger-Argument based Explanation for Event Detection
+NatCS: Eliciting Natural Customer Support Dialogues
+AQE: Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach
+Adaptive Contrastive Knowledge Distillation for BERT Compression
+ZeroAE: Pre-trained Language Model based Autoencoder for Transductive Zero-shot Text Classification
+EventOA: An Event Ontology Alignment Benchmark Based on FrameNet and Wikidata
+CoMave: Contrastive Pre-training with Multi-scale Masking for Attribute Value Extraction
+Prompt-Guided Retrieval Augmentation for Non-Knowledge-Intensive Tasks
+Cross-Lingual Knowledge Distillation for Answer Sentence Selection in Low-Resource Languages
+Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning
+Two Examples are Better than One: Context Regularization for Gradient-based Prompt Tuning
+Risks and NLP Design: A Case Study on Procedural Document QA
+Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity
+Speaking Multiple Languages Affects the Moral Bias of Language Models
+Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks
+When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario
+Zero-Shot Classification by Logical Reasoning on Natural Language Explanations
+RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering
+ECOLA: Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations
+Rethinking Translation Memory Augmented Neural Machine Translation
+BertNet: Harvesting Knowledge Graphs with Arbitrary Relations from Pretrained Language Models
+D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias
+Taxonomy of Problems in Lexical Semantics
+Modular and On-demand Bias Mitigation with Attribute-Removal Subnetworks
+RMSSinger: Realistic-Music-Score based Singing Voice Synthesis
+PEER: Pre-training ELECTRA Extended by Ranking
+AnaMeta: A Table Understanding Dataset of Field Metadata Knowledge Shared by Multi-dimensional Data Analysis Tasks
+Language Model Analysis for Ontology Subsumption Inference
+Synthetic Pre-Training Tasks for Neural Machine Translation
+Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator
+Revisiting Sentence Union Generation as a Testbed for Text Consolidation
+A Robust Information-Masking Approach for Domain Counterfactual Generation
+Visual Coherence Loss for Coherent and Visually Grounded Story Generation
+Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
+Code-Switched Text Synthesis in Unseen Language Pairs
+Improving Radiology Summarization with Radiograph and Anatomy Prompts
+Uncertainty-Aware Unlikelihood Learning Improves Generative Aspect Sentiment Quad Prediction
+Language Agnostic Multilingual Information Retrieval with Contrastive Learning
+GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks
+Automatic Table Union Search with Tabular Representation Learning
+Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks
+Importance of Synthesizing High-quality Data for Text-to-SQL Parsing
+Improving Long Dialogue Summarization with Semantic Graph Representation
+Towards Reasoning in Large Language Models: A Survey
+Can Language Models Be Specific? How?
+Transcribing Vocal Communications of Domestic Shiba lnu Dogs
+Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training
+FastDiff 2: Revisiting and Incorporating GANs and Diffusion Models in High-Fidelity Speech Synthesis
+Prosody-TTS: Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech
+Adaptive Ordered Information Extraction with Deep Reinforcement Learning
+PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition
+Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs
+TADA: Efficient Task-Agnostic Domain Adaptation for Transformers
+EmbedTextNet: Dimension Reduction with Weighted Reconstruction and Correlation Losses for Efficient Text Embedding
+DP-BART for Privatized Text Rewriting under Local Differential Privacy
+Automatic Readability Assessment for Closely Related Languages
+End-to-End Task-Oriented Dialogue Systems Based on Schema
+Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection
+Differentiable Instruction Optimization for Cross-Task Generalization
+Data-Efficient Finetuning Using Cross-Task Nearest Neighbors
+Figurative Language Processing: A Linguistically Informed Feature Analysis of the Behavior of Language Models and Humans
+AutoMoE: Heterogeneous Mixture-of-Experts with Adaptive Computation for Efficient Neural Machine Translation
+Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
+Typology Guided Multilingual Position Representations: Case on Dependency Parsing
+Early Exit with Disentangled Representation and Equiangular Tight Frame
+RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding
+Reducing Sensitivity on Speaker Names for Text Generation from Dialogues
+Sentence Ordering with a Coherence Verifier
+Exploiting Pseudo Image Captions for Multimodal Summarization
+A Pilot Study on Dialogue-Level Dependency Parsing for Chinese
+Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models
+Misleading Relation Classifiers by Substituting Words in Texts
+Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition
+"Low-Resource" Text Classification: A Parameter-Free Classification Method with Compressors
+Interpreting Sentiment Composition with Latent Semantic Tree
+FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models
+A Self-Supervised Integration Method of Pretrained Language Models and Word Definitions
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines
+COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP
+Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts
+Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods
+Feature Interactions Reveal Linguistic Structure in Language Models
+Retrieval-augmented Video Encoding for Instructional Captioning
+Pulling Out All The Full Stops: Punctuation Sensitivity in Neural Machine Translation and Evaluation
+Multi-lingual and Multi-cultural Figurative Language Understanding
+TAPIR: Learning Adaptive Revision for Incremental Natural Language Understanding with a Two-Pass Model
+Replace and Report: NLP Assisted Radiology Report Generation
+Quantifying Train-Evaluation Overlap with Nearest Neighbors
+BigVideo: A Large-scale Video Subtitle Translation Dataset for Multimodal Machine Translation
+Mapping Brains with Language Models: A Survey
+Neural Networks Against (and For) Self-Training: Classification with Small Labeled and Large Unlabeled Sets
+SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation
+DLAMA: A Framework for Curating Culturally Diverse Facts for Probing the Knowledge of Pretrained Language Models
+An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text
+InfoSync: Information Synchronization across Multilingual Semi-structured Tables
+Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding
+Enhancing Few-shot Cross-lingual Transfer with Target Language Peculiar Examples
+Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers
+Critic-Guided Decoding for Controlled Text Generation
+Reconstruction Probing
+Client-Customized Adaptation for Parameter-Efficient Federated Learning
+Injecting Comparison Skills in Task-Oriented Dialogue Systems for Database Search Results Disambiguation
+Diverse Retrieval-Augmented In-Context Learning for Dialogue State Tracking
+ClaimDiff: Comparing and Contrasting Claims on Contentious Issues
+Discourse Analysis via Questions and Answers: Parsing Dependency Structures of Questions Under Discussion
+Forecasting Earnings Surprises from Conference Call Transcripts
+Revisiting Pathologies of Neural Models under Input Reduction
+An Empirical Analysis of Leveraging Knowledge for Low-Resource Task-Oriented Semantic Parsing
+Controlled Text Generation with Hidden Representation Transformations
+Improving Classroom Dialogue Act Recognition from Limited Labeled Data with Self-Supervised Contrastive Learning Classifiers
+Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
+Multilingual Multi-Figurative Language Detection
+Large Language Models Are Partially Primed in Pronoun Interpretation
+A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets
+Local Temperature Beam Search: Avoid Neural Text DeGeneration via Enhanced Calibration
+Nonparametric Decoding for Generative Retrieval
+When to Read Documents or QA History: On Unified and Selective Open-domain QA
+Common Law Annotations: Investigating the Stability of Dialog System Output Annotations
+A Comparative Analysis of the Effectiveness of Rare Tokens on Creative Expression using ramBERT
+CKDST: Comprehensively and Effectively Distill Knowledge from Machine Translation to End-to-End Speech Translation
+Diable: Efficient Dialogue State Tracking as Operations on Tables
+TranSFormer: Slow-Fast Transformer for Machine Translation
+Language Modeling with Latent Situations
+DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis
+Large Language Models with Controllable Working Memory
+Triplet-Free Knowledge-Guided Response Generation
+Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence
+Aspect-aware Unsupervised Extractive Opinion Summarization
+Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension
+Defending against Insertion-based Textual Backdoor Attacks via Attribution
+Exploring Schema Generalizability of Text-to-SQL
+Rethinking Document-Level Relation Extraction: A Reality Check
+The Web Can Be Your Oyster for Improving Language Models
+Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation
+Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context
+ACROSS: An Alignment-based Framework for Low-Resource Many-to-One Cross-Lingual Summarization
+A Class-Rebalancing Self-Training Framework for Distantly-Supervised Named Entity Recognition
+Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction
+Contrastive Learning with Generated Representations for Inductive Knowledge Graph Embedding
+Explanation Regeneration via Information Bottleneck
+AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment
+Multijugate Dual Learning for Low-Resource Task-Oriented Dialogue System
+Enhancing Cross-lingual Natural Language Inference by Soft Prompting with Multilingual Verbalizer
+NewsDialogues: Towards Proactive News Grounded Conversation
+Why Does Zero-Shot Cross-Lingual Generation Fail? An Explanation and a Solution
+A Sequence-to-Sequence&Set Model for Text-to-Table Generation
+Recurrent Attention Networks for Long-text Modeling
+Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data
+Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation
+Extracting Shopping Interest-Related Product Types from the Web
+Distilling Calibrated Knowledge for Stance Detection
+MTR: A Dataset Fusing Inductive, Deductive, and Defeasible Reasoning
+A Multi-modal Debiasing Model with Dynamical Constraint for Robust Visual Question Answering
+FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing
+QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition
+Incomplete Utterance Rewriting by A Two-Phase Locate-and-Fill Regime
+Knowing-how & Knowing-that: A New Task for Machine Comprehension of User Manuals
+Attend, Select and Eliminate: Accelerating Multi-turn Response Selection with Dual-attention-based Content Elimination
+Tokenization Impacts Multilingual Language Modeling: Assessing Vocabulary Allocation and Overlap Across Languages
+An Effective Deployment of Contrastive Learning in Multi-label Text Classification
+Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting
+SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations
+Enhancing Neural Topic Model with Multi-Level Supervisions from Seed Words
+Enhancing Unsupervised Semantic Parsing with Distributed Contextual Representations
+Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing
+MTGP: Multi-turn Target-oriented Dialogue Guided by Generative Global Path with Flexible Turns
+Zero-Shot Text Classification via Self-Supervised Tuning
+Code Execution with Pre-trained Language Models
+DePlot: One-shot visual language reasoning by plot-to-table translation
+Interpretable Multimodal Misinformation Detection with Logic Reasoning
+A Language-First Approach for Procedure Planning
+Teamwork Is Not Always Good: An Empirical Study of Classifier Drift in Class-incremental Information Extraction
+WebDP: Understanding Discourse Structures in Semi-Structured Web Documents
+Class Lifelong Learning for Intent Detection via Structure Consolidation Networks
+Enhancing Document-level Event Argument Extraction with Contextual Clues and Role Relevance
+Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role
+I am PsyAM: Modeling Happiness with Cognitive Appraisal Dimensions
+Deeply Coupled Cross-Modal Prompt Learning
+RHGN: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs
+Enhancing Hierarchical Text Classification through Knowledge Graph Integration
+Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter
+Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models
+Ambiguity Meets Uncertainty: Investigating Uncertainty Estimation for Word Sense Disambiguation
+Multimodal Recommendation Dialog with Subjective Preference: A New Challenge and Benchmark
+OpineSum: Entailment-based self-training for abstractive opinion summarization
+Multi-hop Evidence Retrieval for Cross-document Relation Extraction
+LABO: Towards Learning Optimal Label Regularization via Bi-level Optimization
+Asymmetric feature interaction for interpreting model predictions
+AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets
+Words as Gatekeepers: Measuring Discipline-specific Terms and Meanings in Scholarly Publications
+Prototype-Based Interpretability for Legal Citation Prediction
+Together We Make Sense–Learning Meta-Sense Embeddings
+DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation Extraction
+LightFormer: Light-weight Transformer Using SVD-based Weight Transfer and Parameter Sharing
+I run as fast as a rabbit, can you? A Multilingual Simile Dialogues Datasets
+Coarse-to-fine Few-shot Learning for Named Entity Recognition
+Domain-specific Attention with Distributional Signatures for Multi-Domain End-to-end Task-Oriented Dialogue
+A Semi-Autoregressive Graph Generative Model for Dependency Graph Parsing
+Robustness of Multi-Source MT to Transcription Errors
+CFL: Causally Fair Language Models Through Token-level Attribute Controlled Generation
+Reproducibility in NLP: What Have We Learned from the Checklist?
+Search-Oriented Conversational Query Editing
+Mini-Model Adaptation: Efficiently Extending Pretrained Models to New Languages via Aligned Shallow Training
+On the Limitations of Simulating Active Learning
+Cross-lingual AMR Aligner: Paying Attention to Cross-Attention
+Membership Inference Attacks against Language Models via Neighbourhood Comparison
+Trade-Offs Between Fairness and Privacy in Language Modeling
+An Extensive Exploration of Back-Translation in 60 Languages
+Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS
+Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI
+General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation
+Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation
+Nonparametric Masked Language Modeling
+History repeats: Overcoming catastrophic forgetting for event-centric temporal knowledge graph completion
+Leveraging Synthetic Targets for Machine Translation
+Dynamic Structured Neural Topic Model with Self-Attention Mechanism
+Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue
+RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question
+GVdoc - Graph-based Visual DOcument Classification
+Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models
+X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents
+Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation
+A Simple, Yet Effective Approach to Finding Biases in Code Generation
+Meta-training with Demonstration Retrieval for Efficient Few-shot Learning
+MISMATCH: Fine-grained Evaluation of Machine-generated Text with Mismatch Error Types
+Towards Generative Event Factuality Prediction
+Domain Aligned Prefix Averaging for Domain Generalization in Abstractive Summarization
+AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese
+Knowledge Graph Embeddings using Neural Itˆ𝑜 Process: From Multiple Walks to Stochastic Trajectories
+SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries
+Retrieving Relevant Context to Align Representations for Cross-lingual Event Detection
+Enhancing Cross-lingual Transfer via Phonemic Transcription Integration
+Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction
+VoteTRANS: Detecting Adversarial Text without Training by Voting on Hard Labels of Transformations
+Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages
+AttenWalker: Unsupervised Long-Document Question Answering via Attention-based Graph Walking
+Learning to Generalize for Cross-domain QA
+Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding
+DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers for Machine Translation
+Second Language Acquisition of Neural Language Models
+Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection
+Grounding the Lexical Substitution Task in Entailment
+How does the brain process syntactic structure while listening?
+World Models for Math Story Problems
+Retrieving Multimodal Prompts for Generative Visual Question Answering
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections
+LR-Sum: Summarization for Less-Resourced Languages
+HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language
+DEnsity: Open-domain Dialogue Evaluation Metric using Density Estimation
+Cross-task Knowledge Transfer for Extremely Weakly Supervised Text Classification
+Cross-Lingual Transfer with Target Language-Ready Task Adapters
+Few-shot Low-resource Knowledge Graph Completion with Reinforced Task Generation
+The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation
+Contextualized Semantic Distance between Highly Overlapped Texts
+NormNet: Normalize Noun Phrases for More Robust NLP
+GeoDRL: A Self-Learning Framework for Geometry Problem Solving using Reinforcement Learning in Deductive Reasoning
+Discovering Language Model Behaviors with Model-Written Evaluations
+Exploring Variation of Results from Different Experimental Conditions
+Generating Labeled Data for Relation Extraction: A Meta Learning Approach with Joint GPT-2 Training
+Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors
+PragmatiCQA: A Dataset for Pragmatic Question Answering in Conversations
+Sentiment Knowledge Enhanced Self-supervised Learning for Multimodal Sentiment Analysis
+Improving Knowledge Graph Completion with Generative Hard Negative Mining
+MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System
+CLIPText: A New Paradigm for Zero-shot Text Classification
+Recyclable Tuning for Continual Pre-training
+SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment
+Text Augmentation Using Dataset Reconstruction for Low-Resource Classification
+LMCap: Few-shot Multilingual Image Captioning by Retrieval Augmented Language Model Prompting
+A New Task and Dataset on Detecting Attacks on Human Rights Defenders
+Teacher and Student Models of Offensive Language in Social Media
+Unsupervised Summarization Re-ranking
+Residual Prompt Tuning: improving prompt tuning with residual reparameterization
+Fighting Bias With Bias: Promoting Model Robustness by Amplifying Dataset Biases
+Constructing Procedural Graphs with Multiple Dependency Relations: A New Dataset and Baseline
+Delving into the Openness of CLIP
+Pruning Pre-trained Language Models with Principled Importance and Self-regularization
+HuaSLIM: Human Attention Motivated Shortcut Learning Identification and Mitigation for Large Language models
+The Coreference under Transformation Labeling Dataset: Entity Tracking in Procedural Texts Using Event Models
+MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation
+With Prejudice to None: A Few-Shot, Multilingual Transfer Learning Approach to Detect Social Bias in Low Resource Languages
+Predicting Numerals in Text Using Nearest Neighbor Language Models
+DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies
+Tokenization with Factorized Subword Encoding
+Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking
+Curating Datasets for Better Performance with Example Training Dynamics
+Echoes from Alexandria: A Large Resource for Multilingual Book Summarization
+Stubborn Lexical Bias in Data and Models
+Numeric Magnitude Comparison Effects in Large Language Models
+HyHTM: Hyperbolic Geometry-based Hierarchical Topic Model
+Modeling Cross-Cultural Pragmatic Inference with Codenames Duet
+Joint Generator-Ranker Learning for Natural Language Generation
+AMR-TST: Abstract Meaning Representation-based Text Style Transfer
+Rethinking Semi-supervised Learning with Language Models
+A Unified Generative Approach to Product Attribute-Value Identification
+Distilling Reasoning Capabilities into Smaller Language Models
+SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition
+NonFactS: NonFactual Summary Generation for Factuality Evaluation in Document Summarization
+Bi-level Finetuning with Task-dependent Similarity Structure for Low-resource Training
+Uni-Encoder: A Fast and Accurate Response Selection Paradigm for Generation-Based Dialogue Systems
+Model Intrinsic Features of Fine-tuning based Text Summarization Models for Factual Consistency
+Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function
+Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints
+One Embedder, Any Task: Instruction-Finetuned Text Embeddings
+PruMUX: Augmenting Data Multiplexing with Model Compression
+It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance
+On Degrees of Freedom in Defining and Testing Natural Language Understanding
+Mars: Modeling Context & State Representations with Contrastive Learning for End-to-End Task-Oriented Dialog
+Fusion or Defusion? Flexible Vision-and-Language Pre-Training
+UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding
+TextVerifier: Robustness Verification for Textual Classifiers with Certifiable Guarantees
+Probing Graph Decomposition for Argument Pair Extraction
+SongRewriter: A Chinese Song Rewriting System with Controllable Content and Rhyme Scheme
+Optimizing Test-Time Query Representations for Dense Retrieval
+Follow the Wisdom of the Crowd: Effective Text Generation via Minimum Bayes Risk Decoding
+Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them
+B2T Connection: Serving Stability and Performance in Deep Transformers
+Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind
+Evaluating the Factual Consistency of Large Language Models Through News Summarization
+Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data
+Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
+Reimagining Retrieval Augmented Language Models for Answering Queries
+TimelineQA: A Benchmark for Question Answering over Timelines
+Guiding Dialogue Agents to Complex Semantic Targets by Dynamically Completing Knowledge Graph
+A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment
+Less Likely Brainstorming: Using Language Models to Generate Alternative Hypotheses
+Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning
+MVP: Multi-task Supervised Pre-training for Natural Language Generation
+Can Diffusion Model Achieve Better Performance in Text Generation ? Bridging the Gap between Training and Inference !
+Structured Pruning for Efficient Generative Pre-trained Language Models
+SEAG: Structure-Aware Event Causality Generation
+End-to-end Aspect-based Sentiment Analysis with Combinatory Categorial Grammar
+Text Generation Model Enhanced with Semantic Information in Aspect Category Sentiment Analysis
+Sequential Path Signature Networks for Personalised Longitudinal Language Modeling
+Layerwise universal adversarial attack on NLP models
+Context or Knowledge is Not Always Necessary: A Contrastive Learning Framework for Emotion Recognition in Conversations
+SSP: Self-Supervised Post-training for Conversational Search
+CausalDialogue: Modeling Utterance-level Causality in Conversations
+Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models
+Scaling Laws for BERT in Low-Resource Settings
+Multi-armed bandits for resource efficient, online optimization of language model pre-training: the use case of dynamic masking
+RISE: Leveraging Retrieval Techniques for Summarization Evaluation
+Theory of Mind in Freely-Told Children’s Narratives: A Classification Approach
+A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution
+Incorporating Graph Information in Transformer-based AMR Parsing
+Using Collostructional Analysis to evaluate BERT’s representation of linguistic constructions
+Few Shot Rationale Generation using Self-Training with Dual Teachers
+MTCue: Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation
+Scientific Fact-Checking: A Survey of Resources and Approaches
+Unsupervised Paraphrasing of Multiword Expressions
+Investigating the Saliency of Sentiment Expressions in Aspect-Based Sentiment Analysis
+Better Zero-Shot Reasoning with Self-Adaptive Prompting
+Know What I don’t Know: Handling Ambiguous and Unknown Questions for Text-to-SQL
+Boosting Event Extraction with Denoised Structure-to-Text Augmentation
+Logical Transformers: Infusing Logical Structures into Pre-Trained Language Models
+Neural Topic Modeling based on Cycle Adversarial Training and Contrastive Learning
+Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences
+Smart Word Suggestions for Writing Assistance
+Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation
+Exploiting Abstract Meaning Representation for Open-Domain Question Answering
+Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling
+Robust Natural Language Understanding with Residual Attention Debiasing
+Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence
+Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models
+Distractor Generation based on Text2Text Language Models with Pseudo Kullback-Leibler Divergence Regulation
+T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation
+Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue
+Listen, Decipher and Sign: Toward Unsupervised Speech-to-Sign Language Recognition
+Hybrid-Regressive Paradigm for Accurate and Speed-Robust Neural Machine Translation
+Multimedia Generative Script Learning for Task Planning
+Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets
+Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning
+GNN-SL: Sequence Labeling Based on Nearest Examples via GNN
+Benchmarking Diverse-Modal Entity Linking with Generative Models
+EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning
+Farewell to Aimless Large-scale Pretraining: Influential Subset Selection for Language Model
+SkillQG: Learning to Generate Question for Reading Comprehension Assessment
+Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction
+MedNgage: A Dataset for Understanding Engagement in Patient-Nurse Conversations
+Semantic-conditioned Dual Adaptation for Cross-domain Query-based Visual Segmentation
+Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions
+Controlling Styles in Neural Machine Translation with Activation Prompt
+Towards Better Hierarchical Text Classification with Data Generation
+Making Pre-trained Language Models Better Learn Few-Shot Spoken Language Understanding in More Practical Scenarios
+DSPM-NLG: A Dual Supervised Pre-trained Model for Few-shot Natural Language Generation in Task-oriented Dialogue System
+Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction
+Shu ̄o Wén Jiˇe Zì: Rethinking Dictionaries and Glyphs for Chinese Language Pre-training
+Scene-robust Natural Language Video Localization via Learning Domain-invariant Representations
+Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks
+Revisiting Non-Autoregressive Translation at Scale
+QueryForm: A Simple Zero-shot Form Entity Query Framework
+A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches
+Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport
+Structured Persuasive Writing Support in Legal Education: A Model and Tool for German Legal Case Solutions
+Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo
+PTCSpell: Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction
+Follow the leader(board) with confidence: Estimating p-values from a single test set with item and response variance
+Unsupervised Mapping of Arguments of Deverbal Nouns to Their Corresponding Verbal Labels
+Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy
+Towards Open-Domain Twitter User Profile Inference
+GRACE: Gradient-guided Controllable Retrieval for Augmenting Attribute-based Text Generation
+Digging out Discrimination Information from Generated Samples for Robust Visual Question Answering
+Reinforced Active Learning for Low-Resource, Domain-Specific, Multi-Label Text Classification
+LMs stand their Ground: Investigating the Effect of Embodiment in Figurative Language Interpretation by Language Models
+An Investigation of Noise in Morphological Inflection
+ANALOGICAL - A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models
+The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges
+Chain of Thought Prompting Elicits Knowledge Augmentation
+VCSUM: A Versatile Chinese Meeting Summarization Dataset
+Probabilistic Transformer: A Probabilistic Dependency Model for Contextual Word Representation
+TACR: A Table Alignment-based Cell Selection Method for HybridQA
+Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering
+Modeling the Q-Diversity in a Min-max Play Game for Robust Optimization
+NoisywikiHow: A Benchmark for Learning with Real-world Noisy Labels in Natural Language Processing
+Duplex Diffusion Models Improve Speech-to-Speech Translation
+Focus-aware Response Generation in Inquiry Conversation
+Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning
+Align-then-Enhance: Multilingual Entailment Graph Enhancement with Soft Predicate Alignment
+Connectivity Patterns are Task Embeddings
+TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition
+G^3R: A Graph-Guided Generate-and-Rerank Framework for Complex and Cross-domain Text-to-SQL Generation
+On Isotropy, Contextualization and Learning Dynamics of Contrastive-based Sentence Representation Learning
+Emotion Cause Extraction on Social Media without Human Annotation
+Tucker Decomposition with Frequency Attention for Temporal Knowledge Graph Completion
+Alleviating Exposure Bias via Multi-level Contrastive Learning and Deviation Simulation in Abstractive Summarization
+Learning Query Adaptive Anchor Representation for Inductive Relation Prediction
+Operator Selection and Ordering in a Pipeline Approach to Efficiency Optimizations for Transformers
+A Confidence-based Partial Label Learning Model for Crowd-Annotated Named Entity Recognition
+Bridging the Granularity Gap for Acoustic Modeling
+Topic-Guided Self-Introduction Generation for Social Media Users
+Pre-trained Personalized Review Summarization with Effective Salience Estimation
+Improving Named Entity Recognition via Bridge-based Domain Adaptation
+Medical Dialogue Generation via Dual Flow Modeling
+Measuring Your ASTE Models in The Wild: A Diversified Multi-domain Dataset For Aspect Sentiment Triplet Extraction
+vONTSS: vMF based semi-supervised neural topic modeling with optimal transport
+Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion
+Language Anisotropic Cross-Lingual Model Editing
+Spontaneous gestures encoded by hand positions improve language models: An Information-Theoretic motivated study
+Focusing, Bridging and Prompting for Few-shot Nested Named Entity Recognition
+Learning from a Friend: Improving Event Extraction via Self-Training with Feedback from Abstract Meaning Representation
+IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning
+Exclusive Supermask Subnetwork Training for Continual Learning
+Causal interventions expose implicit situation models for commonsense language understanding
+Multimodal Prompt Learning for Product Title Generation with Extremely Limited Labels
+Prompt Tuning for Unified Multimodal Pretrained Models
+Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition
+Boosting Text Augmentation via Hybrid Instance Filtering Framework
+Exploiting Hierarchically Structured Categories in Fine-grained Chinese Named Entity Recognition
+MixPAVE: Mix-Prompt Tuning for Few-shot Product Attribute Value Extraction
+LET: Leveraging Error Type Information for Grammatical Error Correction
+GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective
+OASum: Large-Scale Open Domain Aspect-based Summarization
+Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt
+Learning to Leverage High-Order Medical Knowledge Graph for Joint Entity and Relation Extraction
+Rethinking the Word-level Quality Estimation for Machine Translation from Human Judgement
+Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text
+UniCOQE: Unified Comparative Opinion Quintuple Extraction As A Set
+Learning Event-aware Measures for Event Coreference Resolution
+KoRC: Knowledge Oriented Reading Comprehension Benchmark for Deep Text Understanding
+Complementary Explanations for Effective In-Context Learning
+A Statistical Exploration of Text Partition Into Constituents: The Case of the Priestly Source in the Books of Genesis and Exodus
+FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery
+Unlearning Bias in Language Models by Partitioning Gradients
+Boost Transformer-based Language Models with GPU-Friendly Sparsity and Quantization
+Exploring the Effectiveness of Prompt Engineering for Legal Reasoning Tasks
+Making Better Use of Training Corpus: Retrieval-based Aspect Sentiment Triplet Extraction via Label Interpolation
+Generating Deep Questions with Commonsense Reasoning Ability from the Text by Disentangled Adversarial Inference
+Adversarial Textual Robustness on Visual Dialog
+JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions
+ConKI: Contrastive Knowledge Injection for Multimodal Sentiment Analysis
+ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval
+Lego-MT: Learning Detachable Models for Massively Multilingual Machine Translation
+Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework
+Separating Context and Pattern: Learning Disentangled Sentence Representations for Low-Resource Extractive Summarization
+What to Fuse and How to Fuse: Exploring Emotion and Personality Fusion Strategies for Explainable Mental Disorder Detection
+Prompt to be Consistent is Better than Self-Consistent? Few-Shot and Zero-Shot Fact Verification with Pre-trained Language Models
+Extract and Attend: Improving Entity Translation in Neural Machine Translation
+Similarizing the Influence of Words with Contrastive Learning to Defend Word-level Adversarial Text Attack
+How Many Answers Should I Give? An Empirical Study of Multi-Answer Reading Comprehension
+Contrastive Learning of Sociopragmatic Meaning in Social Media
+DUB: Discrete Unit Back-translation for Speech Translation
+CSS: A Large-scale Cross-schema Chinese Text-to-SQL Medical Dataset
+Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming
+Revisit Few-shot Intent Classification with PLMs: Direct Fine-tuning vs. Continual Pre-training
+MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking
+DiffuSum: Generation Enhanced Extractive Summarization with Diffusion
+Incorporating Factuality Inference to Identify Document-level Event Factuality
+Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning
+Disambiguated Lexically Constrained Neural Machine Translation
+Exploring the Impact of Vision Features in News Image Captioning
+Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors
+Multi-Relational Probabilistic Event Representation Learning via Projected Gaussian Embedding
+Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models
+Target-Oriented Relation Alignment for Cross-Lingual Stance Detection
+Task-adaptive Label Dependency Transfer for Few-shot Named Entity Recognition
+End-to-End Simultaneous Speech Translation with Differentiable Segmentation
+Adversarial Multi-task Learning for End-to-end Metaphor Detection
+SlowBERT: Slow-down Attacks on Input-adaptive Multi-exit BERT
+TempLM: Distilling Language Models into Template-Based Generators
+Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What’s Next?
+Disentangling Text Representation With Counter-Template For Unsupervised Opinion Summarization
+An Empirical Study of Sentiment-Enhanced Pre-Training for Aspect-Based Sentiment Analysis
+Bidirectional Transformer Reranker for Grammatical Error Correction
+Domain Generalization via Switch Knowledge Distillation for Robust Review Representation
+NaSGEC: a Multi-Domain Chinese Grammatical Error Correction Dataset from Native Speaker Texts
+Denoising Enhanced Distantly Supervised Ultrafine Entity Typing
+Learned Adapters Are Better Than Manually Designed Adapters
+Pay Attention to Implicit Attribute Values: A Multi-modal Generative Framework for AVE Task
+E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition
+Lexical Translation Inconsistency-Aware Document-Level Translation Repair
+Emergent Modularity in Pre-trained Transformers
+Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias
+FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models
+Hybrid and Collaborative Passage Reranking
+Understanding Programs by Exploiting (Fuzzing) Test Cases
+Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models
+Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness
+TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition
+Multi-modal Sarcasm Generation: Dataset and Solution
+Towards Reference-free Text Simplification Evaluation with a BERT Siamese Network Architecture
+SORTIE: Dependency-Aware Symbolic Reasoning for Logical Data-to-text Generation
+From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment
+AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation
+Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning
+Real-World Compositional Generalization with Disentangled Sequence-to-Sequence Learning
+Grammar-based Decoding for Improved Compositional Generalization in Semantic Parsing
+Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners
+Characterizing the Impacts of Instances on Robustness
+Detecting Adversarial Samples through Sharpness of Loss Landscape
+Deep Equilibrium Non-Autoregressive Sequence Learning
+Self-Evolution Learning for Discriminative Language Model Pretraining
+Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers
+WYWEB: A NLP Evaluation Benchmark For Classical Chinese
+RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training
+A Unified One-Step Solution for Aspect Sentiment Quad Prediction
+Fine-grained Artificial Neurons in Audio-transformers for Disentangling Neural Auditory Encoding
+Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs
+AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis
+On the Strength of Sequence Labeling and Generative Models for Aspect Sentiment Triplet Extraction
+Modular Transformers: Compressing Transformers into Modularized Layers for Flexible Efficient Inference
+Commonsense Knowledge Transfer for Pre-trained Language Models
+Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description
+TextObfuscator: Making Pre-trained Language Model a Privacy Protector via Obfuscating Word Representations
+COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements
+Towards Robust Ranker for Text Retrieval
+Towards Open Environment Intent Prediction
+Learning by Analogy: Diverse Questions Generation in Math Word Problem
+Abstract then Play: A Skill-centric Reinforcement Learning Framework for Text-based Games
+Exploring Robust Overfitting for Pre-trained Language Models
+Deep Span Representations for Named Entity Recognition
+A Diffusion Model for Event Skeleton Generation
+Learn to Not Link: Exploring NIL Prediction in Entity Linking
+Causal Intervention for Mitigating Name Bias in Machine Reading Comprehension
+Disentangling Aspect and Stance via a Siamese Autoencoder for Aspect Clustering of Vaccination Opinions
+What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation
+Beyond Triplet: Leveraging the Most Data for Multimodal Machine Translation
+Eliciting Affective Events from Language Models by Multiple View Co-prompting
+Rethinking Round-Trip Translation for Machine Translation Evaluation
+Large Language Models are Built-in Autoregressive Search Engines
+Tab-CoT: Zero-shot Tabular Chain of Thought
+Decker: Double Check with Heterogeneous Knowledge for Commonsense Fact Verification
+UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning
+A Formal Perspective on Byte-Pair Encoding
+ECG-QALM: Entity-Controlled Synthetic Text Generation using Contextual Q&A for NER
+AVATAR: A Parallel Corpus for Java-Python Program Translation
+AraMUS: Pushing the Limits of Data and Model Scale for Arabic Natural Language Processing
+Data-Efficient French Language Modeling with CamemBERTa
+Hybrid Hierarchical Retrieval for Open-Domain Question Answering
+Low-Rank Updates of pre-trained Weights for Multi-Task Learning
+Learning from Children: Improving Image-Caption Pretraining via Curriculum
+PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data
+The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing
+Silver Syntax Pre-training for Cross-Domain Relation Extraction
+"A Little is Enough": Few-Shot Quality Estimation based Corpus Filtering improves Machine Translation
+Automatic Identification of Code-Switching Functions in Speech Transcripts
+Non-Repeatable Experiments and Non-Reproducible Results: The Reproducibility Crisis in Human Evaluation in NLP
+Adversarial Training for Low-Resource Disfluency Correction
+Evaluation for Change
+On the Expressivity Role of LayerNorm in Transformers’ Attention
+Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages
+Masked Audio Text Encoders are Effective Multi-Modal Rescorers
+Leveraging Denoised Abstract Meaning Representation for Grammatical Error Correction
+Computer says "No": The Case Against Empathetic Conversational AI
+Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization
+Revisiting Sample Size Determination in Natural Language Understanding
+Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization
+KNSE: A Knowledge-aware Natural Language Inference Framework for Dialogue Symptom Status Recognition
+On the Difference of BERT-style and CLIP-style Text Encoders
+On the Correspondence between Compositionality and Imitation in Emergent Neural Communication
+Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization
+The Dangers of trusting Stochastic Parrots: Faithfulness and Trust in Open-domain Conversational Question Answering
+Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
+Putting Natural in Natural Language Processing
+Temporal Relation Classification using Boolean Question Answering
+Balancing the Effect of Training Dataset Distribution of Multiple Styles for Multi-Style Text Transfer
+Cost-effective Distillation of Large Language Models
+CDA: A Contrastive Data Augmentation Method for Alzheimer’s Disease Detection
+DivHSK: Diverse Headline Generation using Self-Attention based Keyword Selection
+Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking
+Sequential Integrated Gradients: a simple but effective method for explaining language models
+Multilingual Sequence-to-Sequence Models for Hebrew NLP
+DiffuDetox: A Mixed Diffusion Model for Text Detoxification
+On the Universal Adversarial Perturbations for Efficient Data-free Adversarial Detection
+An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts
+Reasoning in Large Language Models Through Symbolic Math Word Problems
+It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from Suggestive Content on TikTok videos
+Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models
+Know Where You’re Going: Meta-Learning for Parameter-Efficient Fine-Tuning
+Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages
+Counterfactual Probing for the Influence of Affect and Specificity on Intergroup Bias
+Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation
+It is a Bird Therefore it is a Robin: On BERT’s Internal Consistency Between Hypernym Knowledge and Logical Words
+Run Like a Girl! Sport-Related Gender Bias in Language and Vision
+TADA : Task Agnostic Dialect Adapters for English
+Improving Language Model Integration for Neural Machine Translation
+On Search Strategies for Document-Level Neural Machine Translation
+Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark
+The Diminishing Returns of Masked Language Models to Science
+Semi-Supervised Domain Adaptation for Emotion-Related Tasks
+Visually-Enhanced Phrase Understanding
+Iterative Nearest Neighbour Machine Translation for Unsupervised Domain Adaptation
+Neighboring Words Affect Human Interpretation of Saliency Explanations
+Multi-Dimensional Evaluation of Text Summarization with In-Context Learning
+Assessing Word Importance Using Models Trained for Semantic Tasks
+On Dataset Transferability in Active Learning for Transformers
+Response-conditioned Turn-taking Prediction
+Exploiting Commonsense Knowledge about Objects for Visual Activity Recognition
+Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning
+K-UniMorph: Korean Universal Morphology and its Feature Schema
+ISLTranslate: Dataset for Translating Indian Sign Language
+A Hierarchical Explanation Generation Method Based on Feature Interaction Detection
+BanglaBook: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews
+LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset
+Sentiment Analysis using the Relationship between Users and Products
+Uncovering Hidden Consequences of Pre-training Objectives in Sequence-to-Sequence Models
+Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents
+Race, Gender, and Age Biases in Biomedical Masked Language Models
+Long to reign over us: A Case Study of Machine Translation and a New Monarch
+Transformer Language Models Handle Word Frequency in Prediction Head
+Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning
+Open-WikiTable : Dataset for Open Domain Question Answering with Complex Reasoning over Table
+Abstractive Text Summarization Using the BRIO Training Paradigm
+Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models
+Prompted LLMs as Chatbot Modules for Long Open-domain Conversation
+A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models
+Cross Encoding as Augmentation: Towards Effective Educational Text Classification
+Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models
+Unsupervised Dense Retrieval with Relevance-Aware Contrastive Pre-Training
+Type Enhanced BERT for Correcting NER Errors
+Graph Reasoning for Question Answering with Triplet Retrieval
+Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting
+Word-level Prefix/Suffix Sense Detection: A Case Study on Negation Sense with Few-shot Learning
+Compositional Mathematical Encoding for Math Word Problems
+Predicting Human Translation Difficulty Using Automatic Word Alignment
+Transferring General Multimodal Pretrained Models to Text Recognition
+Boosting Zero-shot Cross-lingual Retrieval by Training on Artificially Code-Switched Data
+DopplerBAS: Binaural Audio Synthesis Addressing Doppler Effect
+Attribute Controlled Dialogue Prompting
+The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code
+Not The End of Story: An Evaluation of ChatGPT-Driven Vulnerability Description Mappings
+Learning to Rank Utterances for Query-Focused Meeting Summarization
+GUMSum: Multi-Genre Data and Evaluation for English Abstractive Summarization
+Data Sampling and (In)stability in Machine Translation Evaluation
+Unsupervised Task Graph Generation from Instructional Video Transcripts
+Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis
+Noise-Robust Training with Dynamic Loss and Contrastive Learning for Distantly-Supervised Named Entity Recognition
+Open-World Factually Consistent Question Generation
+Disfluency Generation for More Robust Dialogue Systems
+The Larger they are, the Harder they Fail: Language Models do not Recognize Identifier Swaps in Python
+Rarely a problem? Language models exhibit inverse scaling in their predictions following few-type quantifiers
+Responsibility Perspective Transfer for Italian Femicide News
+HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models
+Triggering Multi-Hop Reasoning for Question Answering in Language Models using Soft Prompts and Random Walks
+NormMark: A Weakly Supervised Markov Model for Socio-cultural Norm Discovery
+SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives
+Augmenting Large Language Model Translators via Translation Memories
+Do transformer models do phonology like a linguist?
+Another Dead End for Morphological Tags? Perturbed Inputs and Parsing
+Entropy-guided Vocabulary Augmentation of Multilingual Language Models for Low-resource Tasks
+Contextualized Soft Prompts for Extraction of Event Arguments
+How effective is machine translation on low-resource code-switching? A case study comparing human and automatic metrics
+A Two-Stage Decoder for Efficient ICD Coding
+People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts
+The State of Profanity Obfuscation in Natural Language Processing Scientific Publications
+C-XNLI: Croatian Extension of XNLI Dataset
+Evaluation of Question Generation Needs More References
+Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities
+A Call for Standardization and Validation of Text Style Transfer Evaluation
+FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models
+What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning
+Model Analysis & Evaluation for Ambiguous Question Answering
+Enhancing Out-of-Vocabulary Estimation with Subword Attention
+HeGeL: A Novel Dataset for Geo-Location from Hebrew Text
+PREADD: Prefix-Adaptive Decoding for Controlled Text Generation
+Distinguishing Address vs. Reference Mentions of Personal Names in Text
+Automatic Named Entity Obfuscation in Speech
+Enhancing Event Causality Identification with Event Causal Label and Event Pair Interaction Graph
+Topic and Style-aware Transformer for Multimodal Emotion Recognition
+Value type: the bridge to a better DST model
+CoAug: Combining Augmentation of Labels and Labelling Rules
+Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation
+Investigating Transformer-Guided Chaining for Interpretable Natural Logic Reasoning
+Conformal Nucleus Sampling
+On the Role of Parallel Data in Cross-lingual Transfer Learning
+A Multi-dimensional study on Bias in Vision-Language models
+Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers
+Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning
+How Well Do Large Language Models Perform on Faux Pas Tests?
+Financial Numeric Extreme Labelling: A dataset and benchmarking
+Towards Speech Dialogue Translation Mediating Speakers of Different Languages
+Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
+Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information
+Teaching the Pre-trained Model to Generate Simple Texts for Text Simplification
+An Exploratory Study on Model Compression for Text-to-SQL
+Intent Discovery with Frame-guided Semantic Regularization and Augmentation
+Transitioning from benchmarks to a real-world case of information-seeking in Scientific Publications
+Focal Training and Tagger Decouple for Grammatical Error Correction
+Parallel Data Helps Neural Entity Coreference Resolution
+XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding
+Better Language Models of Code through Self-Improvement
+Not Enough Data to Pre-train Your Language Model? MT to the Rescue!
+An Empirical Comparison of LM-based Question and Answer Generation Methods
+On Evaluating and Mitigating Gender Biases in Multilingual Settings
+Efficient Out-of-Domain Detection for Sequence to Sequence Models
+PIP: Parse-Instructed Prefix for Syntactically Controlled Paraphrase Generation
+RFiD: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering
+Solving Cosine Similarity Underestimation between High Frequency Words by $\ell_2$ Norm Discounting
+ActiveAED: A Human in the Loop Improves Annotation Error Detection
+G-Tuning: Improving Generalization of Pre-trained Language Models with Generative Adversarial Network
+Leveraging Explicit Procedural Instructions for Data-Efficient Action Prediction
+Overcoming Catastrophic Forgetting in Massively Multilingual Continual Learning
+OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking
+Negation Scope Refinement via Boundary Shift Loss
+Enhancing Continual Relation Extraction via Classifier Decomposition
+Sampling Better Negatives for Distantly Supervised Named Entity Recognition
+Towards Zero-Shot Persona Dialogue Generation with In-Context Learning
+Prediction and Calibration: Complex Reasoning over Knowledge Graph with Bi-directional Directed Acyclic Graph Neural Network
+Acquiring Frame Element Knowledge with Deep Metric Learning for Semantic Frame Induction
+How does the task complexity of masked pretraining objectives affect downstream performance?
+Multi-Domain Dialogue State Tracking with Disentangled Domain-Slot Attention
+Do Large Language Models Know What They Don’t Know?
+INTapt: Information-Theoretic Adversarial Prompt Tuning for Enhanced Non-Native Speech Recognition
+Unified Language Representation for Question Answering over Text, Tables, and Images
+Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation
+Causal Matching with Text Embeddings: A Case Study in Estimating the Causal Effects of Peer Review Policies
+Adaptive Attention for Sparse-based Long-sequence Transformer
+Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models
+HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks
+A Simple Yet Strong Domain-Agnostic De-bias Method for Zero-Shot Sentiment Classification
+ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision
+Enhancing Cross-lingual Prompting with Dual Prompt Augmentation
+Towards Unified Spoken Language Understanding Decoding via Label-aware Compact Linguistics Representations

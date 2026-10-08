@@ -1,0 +1,58 @@
+disco: a toolkit for Distributional Control of Generative Models
+SciLit: A Platform for Joint Scientific Literature Discovery, Summarization and Citation Generation
+Fast Whitespace Correction with Encoder-Only Transformers
+CB2: Collaborative Natural Language Interaction Research Platform
+ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit
+OpenDelta: A Plug-and-play Library for Parameter-efficient Adaptation of Pre-trained Models
+DeepPavlov Dream: Platform for Building Generative AI Assistants
+TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities
+The D-WISE Tool Suite: Multi-Modal Machine-Learning-Powered Tools Supporting and Enhancing Digital Discourse Analysis
+Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction
+TabGenie: A Toolkit for Table-to-Text Generation
+An Efficient Conversational Smart Compose System
+KWJA: A Unified Japanese Analyzer Based on Foundation Models
+GAIA Search: Hugging Face and Pyserini Interoperability for NLP Training Data Exploration
+YANMTT: Yet Another Neural Machine Translation Toolkit
+Autodive: An Integrated Onsite Scientific Literature Annotation Tool
+CARE: Collaborative AI-Assisted Reading Environment
+LaTeX2Solver: a Hierarchical Semantic Parsing of LaTeX Document into Code for an Assistive Optimization Modeling Application
+Effidit: An Assistant for Improving Writing Efficiency
+Disease Network Constructor: a Pathway Extraction and Visualization
+A System for Answering Simple Questions in Multiple Languages
+Riveter: Measuring Power and Social Dynamics Between Entities
+MetaPro Online: A Computational Metaphor Processing Online System
+A Hyperparameter Optimization Toolkit for Neural Machine Translation Research
+Japanese-to-English Simultaneous Dubbing Prototype
+OpenTIPE: An Open-source Translation Framework for Interactive Post-Editing Research
+Massively Multi-Lingual Event Understanding: Extraction, Visualization, and Search
+BiSync: A Bilingual Editor for Synchronized Monolingual Texts
+NeuroX Library for Neuron Analysis of Deep NLP Models
+Hierarchy Builder: Organizing Textual Spans into a Hierarchy to Facilitate Navigation
+The ROOTS Search Tool: Data Transparency for LLMs
+Inseq: An Interpretability Toolkit for Sequence Generation Models
+Which Spurious Correlations Impact Reasoning in NLI Models? A Visual Interactive Diagnosis through Data-Constrained Counterfactuals
+VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering
+UINAUIL: A Unified Benchmark for Italian Natural Language Understanding
+LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models
+Petals: Collaborative Inference and Fine-tuning of Large Models
+XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models
+PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development
+A Practical Toolkit for Multilingual Question and Answer Generation
+The OPUS-MT Dashboard A Toolkit for a Systematic Evaluation of Open Machine Translation Models
+UKP-SQuARE v3: A Platform for Multi-Agent QA Research
+PEEP-Talk: A Situational Dialogue-based Chatbot for English Education
+PersLEARN: Research Training through the Lens of Perspective Cultivation
+Finspector: A Human-Centered Visual Inspection Tool for Exploring and Comparing Biases among Foundation Models
+SanskritShala: A Neural Sanskrit NLP Toolkit with Web-Based Interface for Pedagogical and Annotation Purposes
+Alfred: A System for Prompted Weak Supervision
+OpenICL: An Open-Source Framework for In-context Learning
+Ranger: A Toolkit for Effect-Size Based Multi-Task Evaluation
+Human-in-the-loop Schema Induction
+LAVIS: A One-stop Library for Language-Vision Intelligence
+Lingxi: A Diversity-aware Chinese Modern Poetry Generation System
+OpenSLU: A Unified, Modularized, and Extensible Toolkit for Spoken Language Understanding
+DIAGRAPH: An Open-Source Graphic Interface for Dialog Flow Design
+OpenRT: An Open-source Framework for Reasoning Over Tabular Data
+Pipeline for modeling causal beliefs from natural language
+Self-Supervised Sentence Polishing by Adding Engaging Modifiers
+WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings

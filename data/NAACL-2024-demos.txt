@@ -1,0 +1,22 @@
+TOPICAL: TOPIC Pages AutomagicaLly
+Low-code LLM: Graphical User Interface over Large Language Models
+EdTec-QBuilder: A Semantic Retrieval Tool for Assembling Vocational Training Exams in German Language
+DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models
+RTSUM: Relation Triple-based Interpretable Summarization with Multi-level Salience Visualization
+Edu-ConvoKit: An Open-Source Library for Education Conversation Data
+jp-evalb: Robust Alignment-based PARSEVAL Measures
+OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs
+ATLAS: A System for PDF-centric Human Interaction Data Collection
+BeLeaf: Belief Prediction as Tree Generation
+QueryExplorer: An Interactive Query Generation Assistant for Search and Exploration
+LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models
+DOCMASTER: A Unified Platform for Annotation, Training, & Inference in Document Question-Answering
+RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs
+Concept Over Time Analysis: Unveiling Temporal Patterns for Qualitative Data Analysis
+pyvene: A Library for Understanding and Improving PyTorch Models via Interventions
+Newspaper Signaling for Crisis Prediction
+FastFit: Fast and Effective Few-Shot Text Classification with a Multitude of Classes
+AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents
+ZhuJiu-Knowledge: A Fairer Platform for Evaluating Multiple Knowledge Types in Large Language Models
+Unitxt: Flexible, Shareable and Reusable Data Preparation and Evaluation for Generative AI
+Follow:

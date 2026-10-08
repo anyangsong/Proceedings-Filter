@@ -1,0 +1,161 @@
+Chem-FINESE: Validating Fine-Grained Few-shot Entity Extraction through Text Reconstruction
+GPTs Are Multilingual Annotators for Sequence Generation Tasks
+Next Visit Diagnosis Prediction via Medical Code-Centric Multimodal Contrastive EHR Modelling with Hierarchical Regularisation
+Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing
+ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations
+NavHint: Vision and Language Navigation Agent with a Hint Generator
+Text or Image? What is More Important in Cross-Domain Generalization Capabilities of Hate Meme Detection Models?
+A Methodology for Generative Spelling Correction via Natural Spelling Errors Emulation across Multiple Domains and Languages
+Large Language Models for Psycholinguistic Plausibility Pretesting
+Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation
+An Examination of the Robustness of Reference-Free Image Captioning Evaluation Metrics
+Barriers to Effective Evaluation of Simultaneous Interpretation
+Inconsistent dialogue responses and how to recover from them
+MUG: Interactive Multimodal Grounding on User Interfaces
+PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation
+Revamping Multilingual Agreement Bidirectionally via Switched Back-translation for Multilingual Neural Machine Translation
+mPLM-Sim: Better Cross-Lingual Similarity and Transfer in Multilingual Pretrained Language Models
+OYXOY: A Modern NLP Test Suite for Modern Greek
+Multi-Domain Dialogue State Tracking via Dual Dynamic Graph with Hierarchical Slot Selector
+A Comprehensive Evaluation of Inductive Reasoning Capabilities and Problem Solving in Large Language Models
+Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition
+Large Language Models for Scientific Information Extraction: An Empirical Study for Virology
+Re3val: Reinforced and Reranked Generative Retrieval
+(Chat)GPT v BERT Dawn of Justice for Semantic Change Detection
+Contextualization Distillation from Large Language Model for Knowledge Graph Completion
+Differentially Private Natural Language Models: Recent Advances and Future Directions
+Learning to Compare Financial Reports for Financial Forecasting
+Arukikata Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation
+Knowledge Generation for Zero-shot Knowledge-based VQA
+Personalized Abstractive Summarization by Tri-agent Generation Pipeline
+Reward Engineering for Generating Semi-structured Explanation
+Capturing the Relationship Between Sentence Triplets for LLM and Human-Generated Texts to Enhance Sentence Embeddings
+Harmonizing Code-mixed Conversations: Personality-assisted Code-mixed Response Generation in Dialogues
+Morality is Non-Binary: Building a Pluralist Moral Sentence Embedding Space using Contrastive Learning
+Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations
+Backtracing: Retrieving the Cause of the Query
+Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling
+Investigating grammatical abstraction in language models using few-shot learning of novel noun gender
+On-the-fly Denoising for Data Augmentation in Natural Language Understanding
+Style Vectors for Steering Generative Large Language Models
+Quantifying Association Capabilities of Large Language Models and Its Implications on Privacy Leakage
+Probing Critical Learning Dynamics of LLMs for Hate Speech Detection
+Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling
+PromptExplainer: Explaining Language Models through Prompt-based Learning
+Do-Not-Answer: Evaluating Safeguards in LLMs
+Do Language Models Know When They're Hallucinating References?
+Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys
+CEO: Corpus-based Open-Domain Event Ontology Induction
+Rethinking STS and NLI in Large Language Models
+Learning High-Quality and General-Purpose Phrase Representations
+Explaining Language Model Predictions with High-Impact Concepts
+Understanding and Mitigating Spurious Correlations in Text Classification with Neighborhood Analysis
+On the Intractability to Synthesize Factual Inconsistencies in Summarization
+IndiVec: An Exploration of Leveraging Large Language Models for Media Bias Detection with Fine-Grained Bias Indicators
+Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?
+Computational Morphology and Lexicography Modeling of Modern Standard Arabic Nominals
+Relabeling Minimal Training Subset to Flip a Prediction
+Why Generate When You Can Discriminate? A Novel Technique for Text Classification using Language Models
+Autism Detection in Speech – A Survey
+What the Weight?! A Unified Framework for Zero-Shot Knowledge Composition
+IndiFoodVQA: A Knowledge-Aware Reasoning-Based Visual Question Answering Dataset for Indian Food Dishes
+MAPLE: Micro Analysis of Pairwise Language Evolution for Few-Shot Claim Verification
+Leveraging Open Information Extraction for More Robust Domain Transfer of Event Trigger Detection
+Exploring efficient zero-shot synthetic dataset generation for Information Retrieval
+Clustering-based Sampling for Few-Shot Cross-Domain Keyphrase Extraction
+Clarifying the Path to User Satisfaction: An Investigation into Clarification Usefulness
+Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning
+Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback
+Goodhart’s Law Applies to NLP’s Explanation Benchmarks
+Syllable-level lyrics generation from melody exploiting character-level language model
+Prompt Perturbation Consistency Learning for Robust Language Models
+Minimal Distillation Schedule for Extreme Language Model Compression
+Event Semantic Classification in Context
+Local and Global Contexts for Conversation
+Aspect-based Key Point Analysis for Quantitative Summarization of Reviews
+Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders
+Match More, Extract Better! Hybrid Dual-Saliency Matching Network for Neural Keyphrase Extraction
+Antonym vs Synonym Distinction using InterlaCed Encoder NETworks (ICE-NET)
+Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity
+Does CLIP Bind Concepts? Probing Compositionality in Large Image Models
+Code-Switching and Back-Transliteration Using a Bilingual Model
+Tsetlin Machine Embedding: Representing Words Using Logical Expressions
+Reading Between the Tweets: Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities
+Unified Embeddings for Multimodal Retrieval via Frozen LLMs
+Exploiting Class Probabilities for Black-box Sentence-level Attacks
+Learning Label Hierarchy with Supervised Contrastive Learning
+Trainable Hard Negative Examples in Contrastive Learning for Unsupervised Abstractive Summarization
+Low-Resource Counterspeech Generation for Indic Languages: The Case of Bengali and Hindi
+Teaching Probabilistic Logical Reasoning to Transformers
+On Measuring Context Utilization in Document-Level MT Systems
+Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach
+Morphology Aware Source Term Masking for Terminology-Constrained NMT
+SENSE-LM : A Synergy of Language Models and Sensorimotor Representations for Sensory Information Extraction
+In-Contextual Gender Bias Suppression for Large Language Models
+Parameter-Efficient Fine-Tuning: Is There An Optimal Subset of Parameters to Tune?
+Contextualized Topic Coherence Metrics
+ProMISe: A Proactive Multi-turn Dialogue Dataset for Information-seeking Intent Resolution
+CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation
+QAEVENT: Event Extraction as Question-Answer Pairs Generation
+Sequence Shortening for Context-Aware Machine Translation
+Jigsaw Pieces of Meaning: Modeling Discourse Coherence with Informed Negative Sample Synthesis
+Non-Exchangeable Conformal Language Generation with Nearest Neighbors
+Towards Evidentiality-Aware Retrieval for Abstractive Tasks: Overcoming Abstractiveness in Open-Domain Question Answering
+Self-training Strategies for Sentiment Analysis: An Empirical Study
+Natural Language is All a Graph Needs
+Unraveling the Dynamics of Semi-Supervised Hate Speech Detection: The Impact of Unlabeled Data Characteristics and Pseudo-Labeling Strategies
+When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets
+Can Large Language Models Understand Context?
+Let's Negotiate! A Survey of Negotiation Dialogue Systems
+Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models
+Better Explain Transformers by Illuminating Important Information
+Testing the Depth of ChatGPT's Comprehension via Cross-Modal Tasks Based on ASCII-Art: GPT3.5's Abilities in Regard to Recognizing and Generating ASCII-Art Are Not Totally Lacking
+Cross-lingual Editing in Multilingual Language Models
+Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference
+AccentFold: A Journey through African Accents for Zero-Shot ASR Adaptation to Target Accents
+Hierarchical and Dynamic Prompt Compression for Efficient Zero-shot API Usage
+Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization
+LLM-GEm: Large Language Model-Guided Prediction of People's Empathy Levels towards Newspaper Article
+ICE-Score: Instructing Large Language Models to Evaluate Code
+CReSE: Benchmark Data and Automatic Evaluation Framework for Recommending Eligibility Criteria from Clinical Trial Information
+BMX: Boosting Natural Language Generation Metrics with Explainability
+DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI
+Exploring hybrid approaches to readability: experiments on the complementarity between linguistic features and transformers
+HierarchyNet: Learning to Summarize Source Code with Heterogeneous Representations
+NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries
+Towards Context-Based Violence Detection: A Korean Crime Dialogue Dataset
+FlexiQA: Leveraging LLM's Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering
+Where are we Still Split on Tokenization?
+How Does In-Context Learning Help Prompt Tuning?
+Towards efficient self-supervised representation learning in speech processing
+Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach
+Entity Linking in the Job Market Domain
+Towards Unified Uni- and Multi-modal News Headline Generation
+On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models
+Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning
+Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning
+Revisiting the Markov Property for Machine Translation
+Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases
+Consistent Joint Decision-Making with Heterogeneous Learning Models
+Embible: Reconstruction of Ancient Hebrew and Aramaic Texts Using Transformers
+Internal Representation Dynamics in Transformers
+MEDs for PETs: Multilingual Euphemism Disambiguation for Potentially Euphemistic Terms
+Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary Tasks
+Random Smooth-based Certified Defense against Text Adversarial Attack
+Correcting Language Model Outputs by Editing Salient Layers
+Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca
+Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning
+High-quality Data-to-Text Generation for Severely Under-Resourced Languages with Out-of-the-box Large Language Models
+Assessing the Portability of Parameter Matrices Trained by Parameter-Efficient Finetuning Methods
+GrounDial: Human-norm Grounded Safe Dialog Response Generation
+Language Models use World Knowledge to Disambiguate Quantifier Scope
+Autoregressive Score Generation for Multi-trait Essay Scoring
+CMA-R: Causal Mediation Analysis for Explaining Rumour Detection
+Improving Backchannel Prediction Leveraging Sequential and Attentive Context Awareness
+Analyzing the Role of Part-of-Speech in Code-Switching: A Corpus-Based Study
+Fine-tuning CLIP Text Encoders with Two-step Paraphrasing
+Joint Inference of Retrieval and Generation for Passage Re-ranking
+Establishing degrees of closeness between audio recordings along different dimensions using large-scale cross-lingual models
+How Coherent is Factual Knowledge in Pre-trained Language Models?
+Understanding the effects of language-specific class-imbalance in multilingual fine-tuning
+Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation

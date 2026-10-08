@@ -1,0 +1,51 @@
+FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models
+i-Code Studio: A Configurable and Composable Framework for Integrative AI
+Evalverse: Unified and Accessible Library for Large Language Model Evaluation
+Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion
+OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents
+Lighthouse: A User-Friendly Library for Reproducible Video Moment Retrieval and Highlight Detection
+MarkLLM: An Open-Source Toolkit for LLM Watermarking
+AUTOGEN STUDIO: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems
+TinyAgent: Function Calling at the Edge
+TruthReader: Towards Trustworthy Document Assistant Chatbot with Reliable Attribution
+Commentator: A Code-mixed Multilingual Text Annotation Framework
+Integrating INCEpTION into larger annotation processes
+Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance
+TransAgents: Build Your Translation Company with Language Agents
+Monitoring Hate Speech in Indonesia: An NLP-based Classification of Social Media Texts
+CAVA: A Tool for Cultural Alignment Visualization & Analysis
+ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems
+BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis
+sign.mt: Real-Time Multilingual Sign Language Translation Application
+WebOlympus: An Open Platform for Web Agents on Live Websites
+TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation
+OpenResearcher: Unleashing AI for Accelerated Scientific Research
+OpenFactCheck: A Unified Framework for Factuality Evaluation of LLMs
+ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning
+To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning
+MATSA: Multi-Agent Table Structure Attribution
+OpenT2T: An Open-Source Toolkit for Table-to-Text Generation
+ChatHF: Collecting Rich Human Feedback from Real-time Conversations
+KMatrix: A Flexible Heterogeneous Knowledge Enhancement Toolkit for Large Language Model
+Xinference: Making Large Model Serving Easy
+RETAIN: Interactive Tool for Regression Testing Guided LLM Migration
+ClaimLens: Automated, Explainable Fact-Checking on Voting Claims Using Frame-Semantics
+RAGViz: Diagnose and Visualize Retrieval-Augmented Generation
+PyMarian: Fast Neural Machine Translation and Evaluation in Python
+LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection
+Translation Canvas: An Explainable Interface to Pinpoint and Analyze Translation Systems
+mbrs: A Library for Minimum Bayes Risk Decoding
+Debug Smarter, Not Harder: AI Agents for Error Resolution in Computational Notebooks
+Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play
+SparkRA: A Retrieval-Augmented Knowledge Service System Based on Spark Large Language Model
+Generative Dictionary: Improving Language Learner Understanding with Contextual Definitions
+WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models
+RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation
+Sailor: Open Language Models for South-East Asia
+RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation
+DeepPavlov 1.0: Your Gateway to Advanced NLP Models Backed by Transformers and Transfer Learning
+Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework
+MIMIR: A Customizable Agent Tuning Platform for Enhanced Scientific Applications
+WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild
+Instruction-Driven Game-Development and Game-Play: A Case Study for Poker
+LM-Interview: An Easy-to-use Smart Interviewer System via Knowledge-guided Language Model Exploitation
