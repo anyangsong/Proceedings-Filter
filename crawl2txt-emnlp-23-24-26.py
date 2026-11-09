@@ -8,6 +8,9 @@ urls = [
     "https://2024.emnlp.org/program/accepted_main_conference/",
     "https://2024.emnlp.org/program/accepted_findings/",
     "https://2024.emnlp.org/program/demo/",
+    "https://2026.emnlp.org/program/main_papers/",
+    "https://2026.emnlp.org/program/find_papers/",
+    "https://2026.emnlp.org/program/demo_papers/",
 ]
 
 output_paths = [
@@ -17,6 +20,9 @@ output_paths = [
     "./data/EMNLP-2024-main.txt",
     "./data/EMNLP-2024-findings.txt",
     "./data/EMNLP-2024-demos.txt",
+    "./data/EMNLP-2026-main.txt",
+    "./data/EMNLP-2026-findings.txt",
+    "./data/EMNLP-2026-demos.txt",
 ]
 
 if __name__ == '__main__':
